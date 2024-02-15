@@ -751,7 +751,7 @@ font-family: 'Bebas Neue';
   font-size: 20px;
 }
 
-/* 9876543w56789000-49i3ut588888888888888888888888888888888wepfi9jiwodbgvnli899999999999999999 */
+/*--------------------------------------------------------------------------------------------- */
 
 .products-title{
   position:relative; 
@@ -763,14 +763,13 @@ font-family: 'Bebas Neue';
 }
 
 .products-container{
-  
   width: 100%; height:600px;
   position: relative;
 }
 
 .products-container h1{
   cursor: pointer;
-  position: absolute; top: 600px;   
+  position: absolute; top: 200px;   
   font-family: 'Slackey', sans-serif;
   font-size: 36px;
   text-shadow:  10px 4px #470000;
@@ -928,8 +927,3 @@ color: aliceblue;
   padding:10px 0px;
    transition: 300ms;
 }
-/* 
-.footer-list h4:hover{
-color: var(--secondary-color);
-  transform: scale(1.1,1.1);
-} */
